@@ -2,7 +2,7 @@
 
 My personal page... Except it has CSS
 
-##Languages
+## Languages
 * HTML
 * CSS
 
