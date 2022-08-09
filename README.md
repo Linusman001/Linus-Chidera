@@ -1,6 +1,7 @@
 # Linus-page
 
-My personal page... Except it has CSS 
+My personal page... Except it has CSS
+
 ##Languages
 * HTML
 * CSS
