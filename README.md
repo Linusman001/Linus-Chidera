@@ -7,6 +7,8 @@ My personal page... Except it has CSS
 
 ##Files
 
+| Filename | Description |
+| -------- | ----------- |
 | `index.html` | Webpage's Homepage |
 | `styles.css` | Webpages's Stylesheet |
 | `Cloud.png` | Cloud Images |
