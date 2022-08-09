@@ -7,6 +7,10 @@ body {
 
 a {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover {
+  color: #EAF6F6;
 }
 
 h1 {
@@ -100,6 +104,8 @@ hr {
 .contact-p {
   margin: 0;
   padding: 50px 0;
+  color: #EAF6F6;
+  font-size: 0.75rem;
 }
 .contact-me {
   line-height: 2;
@@ -118,7 +124,7 @@ hr {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
